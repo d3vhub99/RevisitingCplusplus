@@ -1,3 +1,4 @@
+
 //http://codeforces.com/problemset/problem/581/A
 
 #include <iostream>
