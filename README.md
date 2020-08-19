@@ -1,2 +1,2 @@
 # RevisitingCplusplus
-A quick C++ refresher using VSCode.
+Random C++ solutions to some easy codeforces problems related to Loops, condition, math etc
